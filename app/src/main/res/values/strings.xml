@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">xyhTask</string>
+    <array name="operator_list">
+        <item>AND</item>
+        <item>OR</item>
+    </array>
+    <array name="optional_list">
+        <item>DOCUMENT</item>
+        <item>RUNTIME</item>
+        <item>CLASS</item>
+        <item>FILE</item>
+    </array>
+</resources>
